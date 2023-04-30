@@ -21,5 +21,4 @@ Then add the tmux completion tool `imomaliev/tmux-bash-completion` to it for tab
 I use the [tmux-plugins](https://github.com/tmux-plugins/tpm) plugin manager to make working in tmux more managable.
 - `tmux-plugins/tmux-resurrect` to save tmux sessions in between reboots 
 - `tmux-plugins/tmux-continuum` saves tmux environment and restores the server
-
-
+- `jrihon/tmux-theme` custom theme, forked from `catppuccin/tmux`
